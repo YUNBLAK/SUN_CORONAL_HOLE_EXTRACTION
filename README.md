@@ -13,4 +13,4 @@ We highlight the coronal hole part from the original solar image through image p
 
 If the image had been read correctly, a three-dimensional form of ndarray would have been created. The meaning of the number being returned is (height, width, channel). where channel means RGB 3 channel.
 
-Learn images with the k-mean algorithm of scikit-learn. The k-mean algorithm is the most common model of machine learning to cluster data by creating k data means. When you invoke the actual function, it returns how many percentages are occupied in the cluster count area. We use that percentage to calculate the coronal hole area.
+Learning images with the k-mean algorithm of scikit-learn. The k-mean algorithm is the most common model of machine learning to cluster data by creating k data means. When we invoke the actual function, it returns how many percentages are occupied in the cluster count area. We use that percentage to calculate the coronal hole area.
