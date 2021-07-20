@@ -1,5 +1,4 @@
-# Calculating the Area of Coronal Hole using OpenCV and Python
-# 
+# Calculating the Area of Coronal Hole with Filters using OpenCV and Python
 ## by YUNBLAK
 
 ### Image Processing
