@@ -1,7 +1,8 @@
 # Calculating the area of the coronal hole with filters using OpenCV and Python
 ## by YUNBLAK
-
 ### Image Processing
+
+[**IMAGES ARE FROM NASA**]
 
 The coronal hole is an area where the Sun's corona is darker and colder than average and has a lower density of the plasma. We will use OpenCV and Python to process images of the sun to calculate the area of the coronal hole of the sun.
 
