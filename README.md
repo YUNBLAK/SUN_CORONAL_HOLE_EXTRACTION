@@ -1,4 +1,4 @@
-# Calculating the area of the coronal hole
+# SUN_CORONAL_HOLE_EXTRACTION
 ## by YUNBLAK
 ### Image Processing
 
